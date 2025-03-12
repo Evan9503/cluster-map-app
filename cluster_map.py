@@ -1,7 +1,6 @@
 import folium
 import pandas as pd
 import random
-import tkinter as tk
 from tkinter import filedialog
 import os
 
